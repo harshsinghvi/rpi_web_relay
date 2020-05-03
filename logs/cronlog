@@ -1,0 +1,15 @@
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: Do not use the development server in a production environment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 730-761-423
+192.168.225.123 - - [27/Apr/2020 16:06:18] "GET / HTTP/1.1" 200 -
+192.168.225.123 - - [27/Apr/2020 16:06:18] "GET /static/style.css HTTP/1.1" 200 -
+192.168.225.123 - - [27/Apr/2020 16:06:18] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.225.123 - - [27/Apr/2020 16:06:20] "GET /r1 HTTP/1.1" 200 -
+192.168.225.123 - - [27/Apr/2020 16:06:20] "GET /favicon.ico HTTP/1.1" 200 -
+192.168.225.123 - - [27/Apr/2020 16:06:21] "GET /r1 HTTP/1.1" 200 -

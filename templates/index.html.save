@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Switches</title>
+<link rel="styleSheet" href="/static/style.css"/>
+</head>
+<body>
+    <font size="7">
+    <h1>
+        <a href ="/r1" class="button">Switch 1</a>   {{r1}}
+        <br>
+        <a href ="/r2" class="button">Switch 2</a>   {{r2}}
+        <br>
+        <a href ="/r3" class="button">Switch 3</a>   {{r3}}
+        <br>
+        <a href ="/r4" class="button">Switch 4</a>   {{r4}}
+        <br>
+</font>
+    
+    </h1>  
+</body>
+</html>
+
